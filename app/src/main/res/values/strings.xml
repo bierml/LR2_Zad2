@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LR2_Zad2</string>
+    <string name="btn1name">Упражнение для всех чисел</string>
+    <string name="btn2name">Упражнение выборочно</string>
+    <string name="texthint">Выбранное упражнение</string>
+</resources>
